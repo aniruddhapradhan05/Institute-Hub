@@ -1,0 +1,15 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+}
+
+.paper {
+  padding: 2rem;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+button {
+  margin-top: 1rem;
+}
